@@ -17,7 +17,7 @@ def usage ():
 	print " -l=N\tprint N lines of a message (if N is not an even number, addition will occur)"	
 	print " -n=N\tprint a message N times (if N is equal to 0, infinity is assumed)"
 	print " -m=N\tchoose a message being printed (valid range 0-1)"
-	print " -s=N\tspeed of typing an individual line in seconds (supports numbers with decimal precision)"
+	print " -s=N\tspeed of typing an individual line in seconds (supports a number with decimal precision)"
 	print " -h\tdisplay this usage text"
 
 def main (argv):
